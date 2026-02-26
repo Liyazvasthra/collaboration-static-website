@@ -1,2 +1,0 @@
-"Login Page Version 1" 
-"This is DEVELOP version" 
